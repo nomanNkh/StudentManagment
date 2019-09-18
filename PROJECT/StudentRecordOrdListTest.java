@@ -32,7 +32,7 @@ public class StudentRecordOrdListTest {
             switch (choice) {
                 case 1:
                     System.out.println("Please insert surname");
-//                    If it aint broke dont fix it
+
                     surname = input.nextLine();
                     surname = input.nextLine();
                     System.out.println("Please insert first name");
@@ -54,7 +54,7 @@ public class StudentRecordOrdListTest {
 
                 case 2:
                     System.out.println("Please insert surname");
-//                    If it aint broke dont fix it
+
                     surname = input.nextLine();
                     surname = input.nextLine();
                     System.out.println("Please insert first name");
@@ -73,7 +73,7 @@ public class StudentRecordOrdListTest {
                     break;
                 case 3:
                     System.out.println("Please insert surname");
-//                    If it aint broke dont fix it
+
                     surname = input.nextLine();
                     surname = input.nextLine();
                     System.out.println("Please insert first name");
@@ -94,7 +94,7 @@ public class StudentRecordOrdListTest {
                     break;
                 case 4:
                     System.out.println("Please insert surname");
-//                    If it aint broke dont fix it
+
                     surname = input.nextLine();
                     surname = input.nextLine();
                     System.out.println("Please insert first name");
